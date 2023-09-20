@@ -1,3 +1,3 @@
 # VM22
 
-su ema maitseb hasti
+sokolaadimehed ei oska ujuda
