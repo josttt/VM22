@@ -1,3 +1,3 @@
 # VM22
 
-sokolaadimehed (korvpalli inimesed/wolti inimesed) ei oska ujuda
+sokolaadimehed (korvpalli/wolti inimesed) ei oska ujuda
