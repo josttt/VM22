@@ -45,3 +45,14 @@ for(let i=0; i<fruits.length; i++){
 for(const fruit of fruits){
     console.log(fruit);
 }
+
+for(const property in object){
+    console.log(property);
+    console.log(object[property]);
+}
+
+
+for (i = 1; i < 1000; i++){
+    if (i % 3 == 0 || i % 5 == 0)
+    
+}
